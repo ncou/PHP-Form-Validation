@@ -123,7 +123,7 @@ else
 	    <br><br>
 
 
-	    <input type="submit" />
+	    <input type="submit" formnovalidate="formnovalidate" />
 	</form>
 <?php
 // put your code here
